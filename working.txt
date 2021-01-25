@@ -1,0 +1,1 @@
+TENANT DOMAIN : 	django-nextjs.us.auth0.com
